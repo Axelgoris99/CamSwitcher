@@ -5,6 +5,8 @@ CamSwitcher is a small python script that allows you to swap the scene you're us
 
 It allows you to have video meeting where you're always looking in front!
 
+A
+
 Here's the flow :
 
 * You have multiple scene set in OBS and multiple webcam, each webcam being in one OBS Scene.
