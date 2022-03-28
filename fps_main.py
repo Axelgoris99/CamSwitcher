@@ -36,7 +36,7 @@ ws = obsws(host, port, password)
 ws.connect()
 
 ## Face Detection
-# https://ichi.pro/fr/estimation-de-la-pose-de-la-tete-a-l-aide-de-python-230235267405312
+# https://github.com/khalidmeister/head-pose-estimation
 mp_face_mesh = mp.solutions.face_mesh
 face_mesh = mp_face_mesh.FaceMesh(min_detection_confidence=0.5, min_tracking_confidence=0.5)
 
