@@ -5,7 +5,7 @@ CamSwitcher is a small python script that allows you to swap the scene you're us
 
 It allows you to have video meeting where you're always looking in front!
 
-A
+All credits go to : https://github.com/khalidmeister/head-pose-estimation
 
 Here's the flow :
 
