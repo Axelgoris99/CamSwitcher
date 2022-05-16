@@ -31,8 +31,8 @@ You need to install the following :
 5. Setup the virtual cam so that it starts when starting OBS (just convenient, not necessary)
 6. In OBS, setup the two scenes you want to swap between. Make sure that we can see your face on both of these scenes. See below for an example.
 7. For the info.json, complete it with your password from the websocket, same for the port. You must use the exact same name for the Scenes.
-8. **The left camera should be on scene 1 and the right camera on scene 2!**
-9. For the webcam value, this is your virtual camera device number. To find it quickly, you can open Zoom for example and in the video tab, find the camera "Obs-Camera". The webcam number is its position -1. If it is the third option, then webcam must be set to 2.
+8. **The right camera should be on scene 1 and the left camera on scene 2!**
+9. For the webcam value, this is your virtual camera device number. To find it quickly, you can open Zoom for example and in the video tab, find the camera "Obs-Camera". The webcam number is its position -1. If it is the third option, then webcam must be set to 2. So on and so Forth.
 10. Run OBS. You can run the script, you should see the scene change.
 11. You can use the virtual camera in Zoom/teams or other since it is using an OBS Virtual Cam.
 
